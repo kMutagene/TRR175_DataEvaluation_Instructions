@@ -38,7 +38,7 @@ After you installed visual studio, open it. your window should look like this:
 
 ![Step4.1.png](https://i.imgur.com/QvRnzwJ.png)
 
-click on the extensions symbol to the right:
+click on the extensions symbol to the left:
 
 ![Step4.2.png](https://i.imgur.com/XvzFtY6.png)
 
