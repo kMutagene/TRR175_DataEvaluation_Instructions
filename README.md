@@ -44,4 +44,4 @@ click on the extensions symbol to the right:
 
 type 'Ionide' into the searchbar and install it
 
-![Step4.3.png](https://i.imgur.com/9zhV3vd.png)
+![Step4.3.png](https://i.imgur.com/0thIpnA.png)
